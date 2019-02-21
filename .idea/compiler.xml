@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="kettle-manager" options="-extdirs D:\LanGe\Idea\WorkSpace\kettle-manager/src/main/webapp/WEB-INF/lib" />
+      <module name="kettle-manager" options="-extdirs &quot;$PROJECT_DIR$/src/main/webapp/WEB-INF/lib&quot;" />
     </option>
   </component>
 </project>
