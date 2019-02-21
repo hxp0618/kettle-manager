@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-vfs2-2.1-20150824">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/commons-vfs2-2.1-20150824.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

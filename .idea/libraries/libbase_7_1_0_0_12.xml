@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="libbase-7.1.0.0-12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/libbase-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/librepository-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/libformula-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/kettle-dbdialog-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/libformat-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/libswing-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/libxml-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/langedatacore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/legacy-charts-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/kettle-ui-swt-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/libsparkline-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/libloader-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/ldapjdk-20000524.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/legacy-functions-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/libpixie-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/libfonts-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/libserializer-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/kettle5-log4j-plugin-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/libdocbundle-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/jxl-2.6.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

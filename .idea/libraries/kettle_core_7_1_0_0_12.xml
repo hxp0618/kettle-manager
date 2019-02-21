@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="kettle-core-7.1.0.0-12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/kettle-core-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/kettle-engine-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/metastore-7.1.0.0-12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

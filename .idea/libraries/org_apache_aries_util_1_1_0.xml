@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="org.apache.aries.util-1.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/org.apache.aries.util-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/org.apache.felix.framework-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/org.apache.felix.main-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/org.apache.karaf.jaas.boot-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/org.apache.karaf.main-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/org.apache.karaf.util-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/oro-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pax-exam-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pax-exam-cdi-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pax-exam-extender-service-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pax-swissbox-core-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pax-swissbox-extender-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pax-swissbox-framework-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pax-swissbox-lifecycle-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pax-swissbox-tracker-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pdi-engine-api-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pdi-engine-spark-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pdi-osgi-bridge-core-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pdi-spark-driver-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-capability-manager-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-connections-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-cwm-1.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-database-model-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-metadata-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-metaverse-api-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-osgi-utils-api-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-platform-api-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-platform-core-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-platform-extensions-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-platform-repository-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-registry-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-service-coordinator-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-vfs-browser-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-xul-core-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-xul-swing-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-xul-swt-7.1.0.0-12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/pentaho-cwm-1.5.4.jar!/" />
+    </SOURCES>
+  </library>
+</component>

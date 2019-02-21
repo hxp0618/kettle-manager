@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="hibernate-c3p0-3.6.9.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/hsqldb-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/h2-1.2.131.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/guava-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/groovy-all-2.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/geronimo-servlet_3.0_spec-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/georss-rome-0.9.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/ftp4che-0.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/flute-7.1.0.0-12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/flexjson-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/feed4j-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

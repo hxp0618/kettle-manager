@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="infobright-core-3.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/infobright-core-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/ini4j-0.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/itext-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/itext-rtf-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/jackcess-1.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/jackson-annotations-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/jackson-core-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/jackson-databind-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/jackson-jaxrs-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/jackson-xc-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/janino-2.5.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

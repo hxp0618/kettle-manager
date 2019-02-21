@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="slf4j-log4j12-1.7.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/slf4j-log4j12-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/snakeyaml-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/snappy-java-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/snmp4j-1.9.3d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/spring-aop-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/spring-beans-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/spring-context-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/spring-core-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/spring-expression-4.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/spring-security-core-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/sqlite-jdbc-3.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/sqljdbc41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/simple-jndi-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/simplefan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/secondstring-20060615.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/saxon-dom-9.1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/saxon-9.1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/SassyReader-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/sapdbc-7.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/sac-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/rxjava-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/rsyntaxtextarea-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/rome-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/reactive-streams-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/postgresql-9.3-1102-jdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/poi-ooxml-schemas-3.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/poi-ooxml-3.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/poi-3.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/sqlite-jdbc-3.7.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>

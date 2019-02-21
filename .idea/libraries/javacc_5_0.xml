@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="javacc-5.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/javacc-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/javacup-10k.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/javadbf-20081125.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/jaxen-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/javacup-10k.jar!/" />
+    </SOURCES>
+  </library>
+</component>
