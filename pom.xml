@@ -40,35 +40,12 @@
     <dependencies>
 
 
-        <!--        <dependency>
-                    <groupId>cn.benma666</groupId>
-                    <artifactId>myutils</artifactId>
-                    <version>0.0.1</version>
-                </dependency>-->
-
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>${mysql.version}</version>
         </dependency>
 
-        <!--        <dependency>
-                  <groupId>oracle.ojdbc</groupId>
-                  <artifactId>ojdbc</artifactId>
-                  <version>${oracle.version}</version>
-                </dependency>-->
-
-        <!--         <dependency> -->
-        <!--             <groupId>postgresql</groupId> -->
-        <!--             <artifactId>postgresql</artifactId> -->
-        <!--             <version>9.1-901-1.jdbc4</version> -->
-        <!--         </dependency> -->
-
-        <!--         <dependency> -->
-        <!--             <groupId>com.h2database</groupId> -->
-        <!--             <artifactId>h2</artifactId> -->
-        <!--             <version>1.4.187</version> -->
-        <!--         </dependency> -->
 
         <dependency>
             <groupId>junit</groupId>
@@ -102,17 +79,6 @@
             <scope>provided</scope>
         </dependency>
 
-        <!--         <dependency> -->
-        <!--             <groupId>com.ibeetl</groupId> -->
-        <!--             <artifactId>beetl</artifactId> -->
-        <!--             <version>${beetl.version}</version> -->
-        <!--         </dependency> -->
-
-        <!--         <dependency> -->
-        <!--             <groupId>com.alibaba</groupId> -->
-        <!--             <artifactId>druid</artifactId> -->
-        <!--             <version>${druid.version}</version> -->
-        <!--         </dependency> -->
 
         <dependency>
             <groupId>net.sf.ehcache</groupId>
@@ -120,29 +86,6 @@
             <version>${ehcache.version}</version>
         </dependency>
 
-        <!--         <dependency> -->
-        <!--             <groupId>com.alibaba</groupId> -->
-        <!--             <artifactId>fastjson</artifactId> -->
-        <!--             <version>${fastjson.version}</version> -->
-        <!--         </dependency> -->
-
-        <!--         <dependency> -->
-        <!--             <groupId>log4j</groupId> -->
-        <!--             <artifactId>log4j</artifactId> -->
-        <!--             <version>${log4j.version}</version> -->
-        <!--         </dependency> -->
-
-        <!--         <dependency> -->
-        <!--             <groupId>org.slf4j</groupId> -->
-        <!--             <artifactId>slf4j-api</artifactId> -->
-        <!--             <version>${slf4j.version}</version> -->
-        <!--         </dependency> -->
-
-        <!--         <dependency> -->
-        <!--             <groupId>org.slf4j</groupId> -->
-        <!--             <artifactId>slf4j-log4j12</artifactId> -->
-        <!--             <version>${slf4j.version}</version> -->
-        <!--         </dependency> -->
 
         <dependency>
             <groupId>net.sourceforge.jexcelapi</groupId>
@@ -150,11 +93,6 @@
             <version>${jxl.version}</version>
         </dependency>
 
-        <!-- 		<dependency> -->
-        <!-- 			<groupId>net.lingala.zip4j</groupId> -->
-        <!-- 			<artifactId>zip4j</artifactId> -->
-        <!-- 			<version>1.3.1</version> -->
-        <!-- 		</dependency> -->
     </dependencies>
     <build>
         <finalName>eova</finalName>
